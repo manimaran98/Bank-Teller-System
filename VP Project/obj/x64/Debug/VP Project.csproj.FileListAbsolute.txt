@@ -1,0 +1,25 @@
+C:\Users\manim\source\repos\VP Project\VP Project\bin\x64\Debug\VP Project.exe.config
+C:\Users\manim\source\repos\VP Project\VP Project\bin\x64\Debug\VP Project.exe
+C:\Users\manim\source\repos\VP Project\VP Project\bin\x64\Debug\VP Project.pdb
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP Project.csprojAssemblyReference.cache
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.Properties.Resources.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP Project.csproj.GenerateResource.cache
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP Project.csproj.CoreCompileInputs.cache
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP Project.exe
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP Project.pdb
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.Home.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.openAcc.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.openAccDeposit.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.accLogin.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.deposit.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.transactionPage.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.userWithdraw.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.admin.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.viewAcc.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.withdrawApprv.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.transactionHist.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.staffApproval.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.staffPage.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.staffCheckAccount.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.transactionHistMain.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\x64\Debug\VP_Project.withdrawApprvMain.resources

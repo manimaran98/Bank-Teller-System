@@ -1,0 +1,11 @@
+C:\Users\manim\source\repos\VP Project\VP Project\bin\Debug\VP Project.exe.config
+C:\Users\manim\source\repos\VP Project\VP Project\bin\Debug\VP Project.exe
+C:\Users\manim\source\repos\VP Project\VP Project\bin\Debug\VP Project.pdb
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP Project.csprojAssemblyReference.cache
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP_Project.Form1.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP_Project.Properties.Resources.resources
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP Project.csproj.GenerateResource.cache
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP Project.csproj.CoreCompileInputs.cache
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP Project.exe
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP Project.pdb
+C:\Users\manim\source\repos\VP Project\VP Project\obj\Debug\VP_Project.Form2.resources
